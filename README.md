@@ -39,7 +39,7 @@
 * Autoclose ([Autoclose](https://github.com/somini/vim-autoclose))
 * Fugitive ([Fugitive](https://github.com/tpope/vim-fugitive))
 * Surround ([Surround](https://github.com/tpope/vim-surround))
-* Addon MW Utils ([Addon MW Utils][https://github.com/MarcWeber/vim-addon-mw-utils])
+* Addon MW Utils ([Addon MW Utils](https://github.com/MarcWeber/vim-addon-mw-utils))
 * Tlib ([Tlib](https://github.com/tomtom/tlib_vim))
 * Snippets ([Snippets](https://github.com/honza/vim-snippets))
 * Snipmate ([Snipmate](https://github.com/garbas/vim-snipmate))
