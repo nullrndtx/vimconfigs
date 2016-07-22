@@ -52,5 +52,4 @@
 * Syntastic ([Syntastic](https://github.com/scrooloose/syntastic))
 * Tagbar ([Tagbar](https://github.com/majutsushi/tagbar))
 
-&copy; 2016 - ([Randall Tux](https://nullrndtx.github.io))
-
+Copyright &copy; 2016 - [Randall Tux](https://nullrndtx.github.io)
